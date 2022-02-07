@@ -1,12 +1,12 @@
 # Change these first
-owner: cimandent # Your GitHub organization or username, where this repository lives
+owner: CIMADent # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
   - name: Cimadent-home-page
-    url: https://cimadent.cl/
-  - name: Cimadent-login
-    url: https://app.cimadent.cl/
+    url: https://www.cimadent.cl
+  - name: Google
+    url: https://www.google.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
