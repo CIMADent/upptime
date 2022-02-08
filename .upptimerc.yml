@@ -19,6 +19,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://static2.cimadent.com/assets/img/v1.0.22/logo-cimadent-v2.svg
+  favicon: https://static2.cimadent.com/assets/img/v1.0.22/favicon.png
   name: Cimadent status
   introTitle: "**Cimadent Upptime** monitor y status de nuestras paginas, conectado directamente con GitHub."
   introMessage: Podran ver en **tiempo real** los servicios.
