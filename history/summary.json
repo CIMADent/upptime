@@ -40,17 +40,19 @@
     "url": "https://blog.cimadent.cl",
     "icon": "https://favicons.githubusercontent.com/blog.cimadent.cl",
     "slug": "cimadent-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 373,
-    "timeWeek": 457,
-    "timeMonth": 400,
-    "timeYear": 448,
-    "dailyMinutesDown": {}
+    "time": 445,
+    "timeDay": 277,
+    "timeWeek": 423,
+    "timeMonth": 388,
+    "timeYear": 445,
+    "dailyMinutesDown": {
+      "2022-05-31": 0
+    }
   }
 ]
