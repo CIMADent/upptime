@@ -4,19 +4,19 @@
     "url": "https://www.cimadent.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.cimadent.cl.ico",
     "slug": "cimadent-home-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 836,
-    "timeDay": 784,
-    "timeWeek": 678,
-    "timeMonth": 593,
+    "timeDay": 743,
+    "timeWeek": 681,
+    "timeMonth": 596,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2023-07-13": 0
+      "2023-07-13": 17
     }
   },
   {
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2023-07-13": 576,
+      "2023-07-13": 593,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
