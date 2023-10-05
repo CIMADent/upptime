@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 838,
-    "timeDay": 2202,
-    "timeWeek": 917,
+    "timeDay": 1456,
+    "timeWeek": 963,
     "timeMonth": 1108,
-    "timeYear": 798,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2023-07-13": 17
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 115,
-    "timeWeek": 205,
-    "timeMonth": 268,
+    "time": 269,
+    "timeDay": 319,
+    "timeWeek": 226,
+    "timeMonth": 266,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2023-04-19": 8,
@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.cimadent.cl.ico",
     "slug": "cimadent-blog",
     "status": "down",
-    "uptime": "22.73%",
+    "uptime": "22.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.57%",
-    "uptimeYear": "6.60%",
+    "uptimeMonth": "83.86%",
+    "uptimeYear": "6.87%",
     "time": 312,
     "timeDay": 0,
     "timeWeek": 0,
@@ -395,8 +395,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 1440,
-      "2022-10-06": 1440,
-      "2022-10-05": 1440
+      "2022-10-06": 1440
     }
   }
 ]
